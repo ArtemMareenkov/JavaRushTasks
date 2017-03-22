@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task01.task0105">
+<h3>Объявляем переменные</h3>
+<p>Напиши программу, которая в методе <mark>main</mark> объявляет такие переменные:<br />
+<mark class="user">name</mark> типа <span class="text-corporate">String</span>, <mark class="user">age</mark> типа <span class="text-corporate">int</span> и <mark class="user">city</mark> типа <span class="text-corporate">String</span>.</p>
+
+</div>

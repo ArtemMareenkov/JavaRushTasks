@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task01.task0106">
+<h3>Баги и фичи</h3>
+<p>Напиши программу, которая выводит на экран надпись «<strong><em>Это не баг, это фича</em></strong>»</p>
+<p><strong>Пример вывода на экран:</strong><br />
+<code><span class="text-green">Это не баг, это фича.</span></code></p>
+
+</div>

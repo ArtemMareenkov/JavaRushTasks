@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task01.task0101">
+<h3>Круто быть программистом!</h3>
+<p>Напиши программу, которая выводит на экран надпись: «<strong><em>Я думаю, быть программистом &#8212; это круто</em></strong>».</p>
+<p><strong>Пример вывода на экран:</strong><br />
+<code><span class="text-green">Я думаю, быть программистом - это круто</span></code></p>
+
+</div>

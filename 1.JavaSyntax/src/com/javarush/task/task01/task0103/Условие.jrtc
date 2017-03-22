@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task01.task0103">
+<h3>Мой юный друг</h3>
+<p>Сейчас <span class="text-corporate">3126 год</span>. Мой друг родился <span class="text-corporate">8 лет назад</span>.<br />
+Написать программу, выводящую на экран <span class="text-user">год рождения моего друга</span>.</p>
+
+</div>

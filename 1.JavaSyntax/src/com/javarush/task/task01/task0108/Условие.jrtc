@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task01.task0108">
+<h3>2 + 3 = 5</h3>
+<p><strong>Закомментируй несколько строк, чтобы на экран вывелась надпись:</strong><br />
+<code><span class="text-green">2 плюс 3 равно 5</span></code><br />
+<strong>Примечание:</strong> комментировать строки с обьявлением переменных нельзя.</p>
+
+</div>
